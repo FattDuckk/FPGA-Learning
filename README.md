@@ -1,2 +1,2 @@
 # FPGA Learning
-# I practice my vivado stuff here
+I practise my Vivado stuff here
